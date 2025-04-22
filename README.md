@@ -1,1 +1,1 @@
-# Dataclean_Project
+This project focuses on cleaning, analyzing, and visualizing employment-related data from the Indian government's Open Data platform. The goal is to transform raw, messy datasets into clean, structured formats that are suitable for analysis and visualization.
